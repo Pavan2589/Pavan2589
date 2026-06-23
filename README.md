@@ -11,7 +11,7 @@
 ╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-**B.Tech CS (AI) · IIITDM Kancheepuram · Accenture Intern**
+**ML Engineer · Full-Stack Developer · AI Solutions**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Pavan2589-181717?style=flat-square&logo=github)](https://github.com/Pavan2589)
 ![Visitors](https://komarev.com/ghpvc/?username=Pavan2589&style=flat-square&color=58a6ff)
@@ -22,22 +22,34 @@
 
 ```bash
 $ cat about.txt
-→ ML/AI researcher & full-stack engineer building things that work in production.
-→ Competitive programmer (C++) grinding toward product-based SWE roles.
-→ Currently: Enterprise Angular @ Accenture (Nestlé, Ferrero) · Chennai, IN
+→ I build production-ready ML systems and full-stack applications.
+→ Specializing in computer vision, NLP, and scalable backend architecture.
+→ Open to freelance projects — let's ship something great together.
 ```
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 What I Build
 
-| Project | Stack | Highlight |
-|--------|-------|-----------|
-| [**BraTS Tumor Segmentation**](https://github.com/Pavan2589) | PyTorch · EfficientNet-B2 · BioClinicalBERT | FiLM multimodal arch · Dice **0.9101** · IoU **0.8353** · +9.65% vs baseline |
-| [**Plano — Retail Compliance**](https://github.com/Pavan2589/Plano) | Angular · YOLO · ResNet50 · pgvector | Enterprise shelf-compliance CV for Nestlé & Ferrero @ Accenture |
-| [**CloudEnv RL Agent**](https://github.com/Pavan2589) | PPO · Actor-Critic · Beta heads · GAE | 4-VM cloud scheduling agent, benchmarked vs rule-based baselines |
-| [**Smart Campus Connect**](https://github.com/Pavan2589) | Node.js · BullMQ · Redis · FCM | 6-role RBAC, distributed job queues, real-time push notifications |
-| [**KiranaOS**](https://github.com/Pavan2589) | React · Socket.io · Node.js | Hyperlocal delivery with live GPS rider tracking & dark store fallback |
+| Domain | What I deliver |
+|--------|---------------|
+| **Computer Vision** | Object detection, image segmentation, shelf/compliance systems |
+| **NLP & LLMs** | RAG pipelines, fine-tuning, text-guided multimodal models |
+| **Full-Stack Apps** | Angular / React frontends + Node.js / FastAPI / .NET backends |
+| **RL & Agents** | Custom environments, PPO/Actor-Critic agents, benchmarking |
+| **Backend & Infra** | REST APIs, distributed queues, Docker, PostgreSQL, Redis |
+
+---
+
+## 🚀 Selected Projects
+
+| Project | Stack | Result |
+|--------|-------|--------|
+| **Brain Tumor Segmentation** | PyTorch · EfficientNet-B2 · BioClinicalBERT | FiLM multimodal arch · Dice **0.9101** · +9.65% over baseline |
+| **Retail Shelf Compliance** | Angular · YOLO · ResNet50 · pgvector | Enterprise CV pipeline for planogram verification |
+| **Cloud Resource RL Agent** | PPO · Actor-Critic · GAE | Autonomous VM scheduling, outperforms rule-based baselines |
+| **Hyperlocal Delivery Platform** | React · Socket.io · Node.js | Live GPS tracking, dark store fallback, real-time routing |
+| **Campus Notification System** | Node.js · BullMQ · Redis · FCM | 6-role RBAC, distributed job queues, push notifications |
 
 ---
 
@@ -66,7 +78,6 @@ $ cat about.txt
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
 
 ---
 
@@ -81,23 +92,16 @@ $ cat about.txt
 
 ---
 
-## 🏆 Competitive Programming
+## 📫 Hire Me
 
-```
-Platform  : LeetCode  |  Language: C++
-Progress  : 200+ problems  |  Focus: Medium / Hard
-Topics    : Tree DP · Graph BFS/DFS · Bitset · DP optimizations
-```
-
----
-
-## 📫 Let's connect
+> Open to freelance work in **ML/AI**, **full-stack development**, and **computer vision**.  
+> Let's talk about your project.
 
 - 🌐 GitHub: [@Pavan2589](https://github.com/Pavan2589)
-- 📧 Roll: CS23B2029 · IIITDM Kancheepuram
-
+- Gmail: pavan.kumar.in06@gmail.com
+- Linkedin: https://www.linkedin.com/in/pavan-kumar-526407241/
 ---
 
 <div align="center">
-<sub>⚡ Building at the intersection of ML, systems, and product engineering.</sub>
+<sub>⚡ Building production ML and software — one shipped project at a time.</sub>
 </div>
