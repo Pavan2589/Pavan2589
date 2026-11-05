@@ -1,7 +1,7 @@
 ```bash
 $ fortune
 
- "Perhaps the detour is the destination."
+ "Perhaps the detour is the destination"
 ```
 
 ---
